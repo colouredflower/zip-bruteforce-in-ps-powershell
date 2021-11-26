@@ -4,21 +4,21 @@ Hardik#8032
 ```
 
 <p align="center">
-  <img src="https://i0.wp.com/content373701716.files.wordpress.com/2021/09/screenshot_2.png?ssl=1" alt="Logo" width="" height="" />
+  <img src="https://user-images.githubusercontent.com/95069650/143549061-af76660c-d9a7-4315-a6ec-ab18d73a3ec9.png" alt="Logo" width="" height="" />
   <h3 align="center">Archieve bruteforce in ps powershell-.</h3>
 
   <p align="center">
     This is a brutefoce script written in powershell
     <br />
-    <a href="https://github.com/colouredflower/zip-bruteforce-in-ps-powershell-/issues"><strong>Get support�</strong></a>
+    <a href="https://github.com/colouredflower/zip-bruteforce-in-ps-powershell-/issues"><strong>Get support»</strong></a>
     <br />
     <br />
        <a href="#-show-your-support-">Donate</a>
-    ·
+    Â·
     <a href="https://github.com/colouredflower">Contact</a>
   </p>
 </p>
-# 📦 Installation
+# ðŸ“¦ Installation
 
 -   Its just portable open it in notepad and run it in powershell or powershell ise.
 
@@ -33,11 +33,11 @@ Hardik#8032
 
 
 
-<h1 id="Donate">🔥 Show Your Support </h1>
+<h1 id="Donate">ðŸ”¥ Show Your Support </h1>
 
-Give a ⭐️ if this project helped you!
+Give a â­ï¸ if this project helped you!
 
-❤️ Donate
+â¤ï¸ Donate
 <br><br>
 <noscript><a href="https://opencollective.com/colouredflower"><img alt="Donate using Open Collective" src="https://opencollective.com/webpack/donate/button@2x.png?color=blue"></a></noscript>
 <br>
@@ -62,7 +62,7 @@ __Please Note!__
 <br><br>
 
 __Please Note!__
-*Make sure you’re sending only ERC20-USDT tokens to this wallet address. If you send any other USDT token, I may not be able to retrieve these funds.*
+*Make sure youâ€™re sending only ERC20-USDT tokens to this wallet address. If you send any other USDT token, I may not be able to retrieve these funds.*
  
  <br>
  
@@ -79,7 +79,7 @@ __Please Note!__
 
 
 
-# 📞 Contact
+# ðŸ“ž Contact
 
 -   Mail: vicecitydynasty@gmail.com
 -   Github: https://github.com/colouredflower
