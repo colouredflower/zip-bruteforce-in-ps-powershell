@@ -37,7 +37,7 @@ Hardik#8032
 
 Give a ⭐️ if this project helped you!
 
-❤️  Donate
+❤️ • Donate
 <br><br>
 <noscript><a href="https://opencollective.com/colouredflower"><img alt="Donate using Open Collective" src="https://opencollective.com/webpack/donate/button@2x.png?color=blue"></a></noscript>
 <br>
@@ -79,7 +79,7 @@ __Please Note!__
 
 
 
-# ðŸ“ž Contact
+# 📞 Contact
 
 -   Mail: vicecitydynasty@gmail.com
 -   Github: https://github.com/colouredflower
