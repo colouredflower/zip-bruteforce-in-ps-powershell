@@ -21,6 +21,7 @@ Hardik#8032
 # 📦¦ Installation
 
 -   Its just portable open it in notepad and run it in powershell or powershell ise.
+-   Also always remember to install 7zip in its default directory and don't forget to use the version given in the [Realeases Tab](https://github.com/colouredflower/zip-bruteforce-in-ps-powershell-/releases) because in the newer versions of 7zip this script no longer works :(
 
 # :octocat: Type Of Keys
 
