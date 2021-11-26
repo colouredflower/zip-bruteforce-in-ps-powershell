@@ -14,11 +14,11 @@ Hardik#8032
     <br />
     <br />
        <a href="#-show-your-support-">Donate</a>
-    Â·
+    ·
     <a href="https://github.com/colouredflower">Contact</a>
   </p>
 </p>
-# ðŸ“¦ Installation
+# 📦¦ Installation
 
 -   Its just portable open it in notepad and run it in powershell or powershell ise.
 
@@ -33,11 +33,11 @@ Hardik#8032
 
 
 
-<h1 id="Donate">ðŸ”¥ Show Your Support </h1>
+<h1 id="Donate">🔥 Show Your Support </h1>
 
-Give a â­ï¸ if this project helped you!
+Give a ⭐️ if this project helped you!
 
-â¤ï¸ Donate
+❤️  Donate
 <br><br>
 <noscript><a href="https://opencollective.com/colouredflower"><img alt="Donate using Open Collective" src="https://opencollective.com/webpack/donate/button@2x.png?color=blue"></a></noscript>
 <br>
