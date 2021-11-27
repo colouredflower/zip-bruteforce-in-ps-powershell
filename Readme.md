@@ -63,7 +63,7 @@ __Please Note!__
 <br><br>
 
 __Please Note!__
-*Make sure youâ€™re sending only ERC20-USDT tokens to this wallet address. If you send any other USDT token, I may not be able to retrieve these funds.*
+*Make sure you are sending only ERC20-USDT tokens to this wallet address. If you send any other USDT token, I may not be able to retrieve these funds.*
  
  <br>
  
