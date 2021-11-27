@@ -40,7 +40,7 @@ Give a ⭐️ if this project helped you!
 
 ❤️ • Donate
 <br><br>
-<noscript><a href="https://opencollective.com/colouredflower"><img alt="Donate using Open Collective" src="https://opencollective.com/webpack/donate/button@2x.png?color=blue"></a></noscript>
+<noscript><a href="https://opencollective.com/colouredflower"><img alt="Donate using Open Collective" src="https://opencollective.com/colouredflower/tiers/generous.svg?avatarHeight=90&width=700"></a></noscript>
 <br>
 
 <br><br>
