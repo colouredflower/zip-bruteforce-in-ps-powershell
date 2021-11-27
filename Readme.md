@@ -25,9 +25,9 @@ Hardik#8032
 
 # :octocat: Type Of Keys
 
-|[Links](https://github.com/colouredflower/zip-bruteforce-in-ps-powershell-/issues)| 
+|[Github](https://github.com/colouredflower)| 
 | :------------- |
-|[Github](https://github.com/colouredflower) | 
+|[Issues](https://github.com/colouredflower/zip-bruteforce-in-ps-powershell/issues) | 
 
 
 
