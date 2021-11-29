@@ -1,3 +1,4 @@
+.\UpdateNotifier.ps1
 #Made by, coloured flower
 
 # Stopwatch for measurement
