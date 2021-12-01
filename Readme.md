@@ -42,6 +42,7 @@ Give a ⭐️ if this project helped you!
 <br><br>
 <noscript><a href="https://opencollective.com/colouredflower"><img alt="Donate using Open Collective" src="https://opencollective.com/colouredflower/tiers/generous.svg?avatarHeight=90&width=700"></a></noscript>
 <br>
+[![DigitalOcean Referral Badge](https://web-platforms.sfo2.digitaloceanspaces.com/WWW/Badge%202.svg)](https://www.digitalocean.com/?refcode=2be4b2f49596&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
 
 <br><br>
 ### Bitcoin Wallet Address
